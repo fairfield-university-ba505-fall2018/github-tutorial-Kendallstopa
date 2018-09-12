@@ -3,5 +3,5 @@
 #The Purpose of This Tutorial
 #Mary Had  Little Lamb
 *To show the difference in using atom, github desktop, and github website*
-_This was really fun_
+_This was really a lot of fun_
 [the original assignment](https://christopherhuntley.github.io/ba505-docs/Tutorials/GitHub/)
